@@ -15,10 +15,10 @@ pkg install python2
 pkg install nano
 ```
 ```
-git clone https://github.com/thedeveloper03/YouTube-subscribers
+git clone https://github.com/pixelPusher03/YouTube
 ```
 ```
-cd YouTube-subscribers
+cd YouTube
 ```
 ```
 python2 hakyt.py
